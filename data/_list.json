@@ -1,10 +1,10 @@
 [
   {
     "id": 1,
-    "name": "Magnetic Core",
-    "author": "EndLevelGMD",
-    "verifier": "DizzyXYZ",
-    "video": "https://youtu.be/Dhk9DM3NFe8?si=igYIVpVPrkfzp2UZ",
+    "name": "Sample Level 2",
+    "author": "Someone",
+    "verifier": "Verifier",
+    "video": "https://youtu.be/example",
     "difficulty": 1
   }
 ]
