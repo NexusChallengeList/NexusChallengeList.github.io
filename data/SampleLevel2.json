@@ -1,0 +1,9 @@
+{
+  "name": "Sample Level 2",
+  "author": "Someone",
+  "description": "Another sample level.",
+  "verifier": "Verifier",
+  "verification": "https://youtu.be/example",
+  "percentToQualify": 100,
+  "records": []
+}
