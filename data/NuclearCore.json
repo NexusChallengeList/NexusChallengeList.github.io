@@ -1,0 +1,20 @@
+{
+    "id": 81296407,
+    "name": "Nuclear Core",
+    "author": "EndLevelGMD",
+    "creators": ["EndLevelGMD"],
+    "verifier": "DizzyXYZ",
+    "verification": "https://www.youtube.com/watch?v=ISTl28wKSXc",
+    "percentToQualify": "100",
+    "password": "Free to Copy",
+    "records": [
+        {
+            "user": "Sample Victor 1",
+            "percent": 100,
+        },
+        {
+            "user": "EndLevelGMD",
+            "percent": 100,
+        }
+    ]
+}
