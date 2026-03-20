@@ -1,11 +1,12 @@
 [
   {
     "id": 1,
-    "name": "Sample Level 2",
-    "author": "Someone",
-    "verifier": "Verifier",
-    "verification": "https://youtu.be/example",
-    "video": "https://youtu.be/example",
+    "name": "SAMPLELEVEL2",
+    "author": "Solo_Creator",
+    "creators": ["Solo_Creator"],
+    "verifier": "Solo_Creator",
+    "verification": "https://www.youtube.com/watch?v=IST128wKSXc",
+    "video": "https://www.youtube.com/watch?v=IST128wKSXc",
     "percentToQualify": 100,
     "difficulty": 1
   }
