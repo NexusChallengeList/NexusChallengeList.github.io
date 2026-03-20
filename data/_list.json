@@ -3,8 +3,11 @@
     "id": 1,
     "name": "Sample Level 2",
     "author": "Someone",
+    "creators": ["Someone"],
     "verifier": "Verifier",
+    "verification": "https://youtu.be/example",
     "video": "https://youtu.be/example",
+    "percentToQualify": 100,
     "difficulty": 1
   }
 ]
