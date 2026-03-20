@@ -1,11 +1,11 @@
 {
-    "id": 1,
     "name": "EndLevelGMD",
     "author": "EndLevelGMD",
     "creators": ["EndLevelGMD"],
     "verifier": "DizzyXYZ",
     "verification": "https://youtu.be/Dhk9DM3NFe8?si=igYIVpVPrkfzp2UZ",
     "percentToQualify": "100",
+    "levelid": "128634558",
     "password": "Free To Copy",
     "records": ["SomeRandomPrsn"
     ]
