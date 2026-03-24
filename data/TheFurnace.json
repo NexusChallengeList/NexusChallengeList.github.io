@@ -11,6 +11,10 @@
          {
             "user": "SomeRandomPrsn",
             "percent": 100
+        },
+        {
+            "user": "DizzyXYZ",
+            "percent": 100
         }
     ]
 }
