@@ -8,6 +8,15 @@
     "percentToQualify": 52,
     "password": "Free To Copy",
     "records": [
+
+        {
+            "user": "DizzyXYZ",
+            "percent": 100
+        },
+        {
+            "user": "SidneyE4",
+            "percent": 100
+        }
         
     ]
 }
