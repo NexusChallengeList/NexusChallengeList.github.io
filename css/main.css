@@ -102,19 +102,16 @@ input[type="checkbox"] {
   font-size: 18px;
   font-weight: 500;
 }
-
+/* DARK MODE VERSION */
+.dark .callout {
+  background-color: #31874E; /* darker pastel green */
+}
 .callout a {
   color: white;
   text-decoration: underline;
   font-weight: 600;
 }
-}
-/* Dark mode override */
-@media (prefers-color-scheme: dark) {
-  .callout {
-    background-color: #31874E; /* slightly darker pastel green */
-    color: #e6edf3;
-  }
+
 
   .callout a {
     color: #ffffff;
