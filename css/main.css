@@ -95,7 +95,7 @@ input[type="checkbox"] {
     margin: 0;
 }
 .callout {
-  background-color: #1e66e1;
+  background-color: #4EC27B;
   color: white;
   padding: 16px 20px;
   border-radius: 10px;
@@ -107,4 +107,16 @@ input[type="checkbox"] {
   color: white;
   text-decoration: underline;
   font-weight: 600;
+}
+}
+/* Dark mode override */
+@media (prefers-color-scheme: dark) {
+  .callout {
+    background-color: #31874E; /* slightly darker pastel green */
+    color: #e6edf3;
+  }
+
+  .callout a {
+    color: #ffffff;
+  }
 }
