@@ -99,7 +99,7 @@ input[type="checkbox"] {
   color: white;
   padding: 16px 20px;
   border-radius: 10px;
-  font-family: inherent;
+  font: inherent;
   font-size: 18px;
   font-weight: 500;
 }
