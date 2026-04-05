@@ -87,11 +87,13 @@ export default {
                     </div>
                     <template v-if="editors">
                         <div class="callout">
-                            If you're interested in playing legitimately verified demons by us, check out
-                            <a href="https://nexusdemonlist.github.io/#/" target="_blank">
-                            the Nexus Demon List (NDL)
-                        </a>.
-                    </div>
+                            <p class="type-label-md">
+                                If you're interested in playing legitimately verified demons by us, check out
+                                <a href="https://nexusdemonlist.github.io/#/" target="_blank">
+                                the Nexus Demon List (NDL)
+                                </a>.
+                            </p>
+                        </div>
                         <h3>List Editors</h3>
                         <ol class="editors">
                             <li v-for="editor in editors">
