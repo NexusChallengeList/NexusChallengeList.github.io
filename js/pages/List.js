@@ -91,7 +91,7 @@ export default {
                                 If you're interested in playing legitimately verified demons by us, check out
                                 <a href="https://nexusdemonlist.github.io/#/" target="_blank">
                                 the Nexus Demon List (NDL)
-                                </a>.
+                                </a>
                             </p>
                         </div>
                         <h3>List Editors</h3>
